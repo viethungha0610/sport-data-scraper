@@ -1,0 +1,35 @@
+Column name,Definition
+name,Player name
+team,NFL team
+position,Football position abbreviated
+height,Height in cm
+weight,Weight in lb
+birth_date,Date of birth in DD-MM-YYYY format
+awards,List of awards (List[str])
+career_stats.games_played,Number of games played
+career_stats.approx_val,Approximate Value is our attempt to attach a single number to every player-season since 1960.<br>See the glossary for more information.
+career_stats.qbrec,Team record in games started by this QB (regular season)
+career_stats.cmp_pct,Percentage of Passes Completed. Minimum 14 attempts per scheduled game to qualify as leader.<br />Minimum 1500 pass attempts to qualify as career leader.
+career_stats.yds_pass,"Yards Gained by Passing. For teams, sack yardage is deducted from this total"
+career_stats.ya_pass,Yards gained per pass attempt. Minimum 14 attempts per scheduled game to qualify as leader.<br>Minimum 1500 pass attempts to qualify as career leader.
+career_stats.passing_td,Passing Touchdowns
+career_stats.int_thrown,Interceptions thrown
+career_stats.sacks,"Sacks (official since 1982, based on play-by-play, game film and other research since 1960)"
+career_stats.solo,Tackles. Before 1994: unofficial and inconsistently recorded from team to team. For amusement only. 1994-now: unofficial but consistently recorded.
+career_stats.ff,Number of times forced a fumble by the opposition recovered by either team
+career_stats.rec,Receptions
+career_stats.yds_receive,Receiving Yards
+career_stats.yr,Receiving Yards per Reception<br>Minimum 1.875 catches per game scheduled to qualify as leader.<br />Minimum 200 receptions to qualify as career leader.
+career_stats.receiving_td,Receiving Touchdowns
+career_stats.rush,Rushing Attempts (sacks not included in NFL)
+career_stats.yds_rush,Rushing Yards Gained (sack yardage is not included by NFL)
+career_stats.ya_rush,Rushing Yards per Attempt<br>Minimum 6.25 rushes per game scheduled to qualify as leader.<br />Minimum 750 rushes to qualify as career leader.
+career_stats.rushing_td,Rushing Touchdowns
+career_stats.fantpt,"Fantasy points:
+                            1 point per 25 yards passing
+                            4 points per passing touchdown
+                            -2 points per interception thrown
+                            1 point per 10 yards rushing/receiving
+                            6 points per TD
+                            2 points per two-point conversion
+                            -2 points per fumble lost (est. prior to 1994)"
